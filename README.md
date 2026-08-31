@@ -11,7 +11,7 @@ A clean and simple collection of classic Convolutional Neural Network (CNN) arch
 ## 📁 Repository Structure
 
 ```text
-Classic-Networks/
+Classic Networks/
 ├── images/             # Images and visual results
 ├── AlexNet.ipynb       # AlexNet model code
 ├── LeNet-5.ipynb       # LeNet-5 model code
