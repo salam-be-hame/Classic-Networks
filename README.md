@@ -16,19 +16,14 @@ Classic-Networks/
 ├── AlexNet.ipynb       # AlexNet model code
 ├── LeNet-5.ipynb       # LeNet-5 model code
 └── VGG-16.ipynb        # VGG-16 model code
+```
+## 🚀 How to Use
+1 - Download or clone this repository to your computer.</br>
+2 - Open any .ipynb file using Jupyter Notebook, JupyterLab, or VS Code.</br>
+3 - Run the code cells step-by-step to see how each model works.</br>
 
-🚀 How to Use
-Download or clone this repository to your computer.
-
-Open any .ipynb file using Jupyter Notebook, JupyterLab, or VS Code.
-
-Run the code cells step-by-step to see how each model works.
-
-🛠️ Requirements
-Python 3.x
-
-Jupyter Notebook
-
-PyTorch / TensorFlow
-
-NumPy, Matplotlib
+## 🛠️ Requirements
+- Python 3.x
+- Jupyter Notebook
+- TensorFlow
+- NumPy, Matplotlib
